@@ -33,9 +33,7 @@ Each ResNet variant (ResNet-18, ResNet-34, and ResNet-50) is implemented using *
 
 ---
 
-## ⚙️ Installation
+## 🧑‍💻 Author
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Jaskeerat23/ResNets.git
-   cd ResNets
+Jaskeerat Singh
+🎯 AI/ML Engineer | Passionate about Deep Learning Architectures
